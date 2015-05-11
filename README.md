@@ -1,11 +1,20 @@
 Takeaway Challenge
 ==================
 
-Instructions
--------
-* Challenge time: Friday, the entire day + the weekend if you need it
-* Feel free to use google, your notes, books, etc but work on your own
-* You must submit a pull request to this repo with your code by 9am Monday morning
+* Note: Major reformatting in process.My first attempt at the challenge was too complicated and overzealous.I created an interactive login, a website, a menu page, a order, page, etc..
+
+I am determined I can complete the challenge with passing tests by breaking down my model and using the following structure.
+
+my_pseudo notes:
+
+1. Keep things simple and create 3 classes. Website, Order list, Confirmation message system.
+
+2. Website: will place the order.
+
+3. Order list: will show the order & subtotal.
+
+4. Confirmation message system: will confirm the order with a text message through twilio.
+
 
 Task
 -----
